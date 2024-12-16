@@ -1,0 +1,61 @@
+{
+  "RootLayout": {
+    "home_link": "Accueil",
+    "about_link": "À propos",
+    "dashboard_link": "Tableau de bord",
+    "portfolio_link": "Portfolio de trading",
+    "sign_in_link": "Se connecter",
+    "sign_up_link": "S'inscrire"
+  },
+  "BaseTemplate": {
+    "description": "Un bot de trading automatisé par IA pour les actions et les crypto-monnaies",
+    "made_with": "Fait avec <author></author>."
+  },
+  "Index": {
+    "meta_title": "Smartvest Bot - Trading par IA",
+    "meta_description": "Smartvest Bot est votre compagnon de trading intelligent, utilisant l'IA pour optimiser vos investissements en actions et en crypto-monnaies.",
+    "sponsors_title": "Ils nous font confiance"
+  },
+  "Dashboard": {
+    "meta_title": "Tableau de bord de trading",
+    "meta_description": "Surveillez votre performance de trading automatisé",
+    "hello_message": "Bon retour, {email}!",
+    "total_portfolio": "Valeur totale du portefeuille",
+    "active_trades": "Trades actifs",
+    "trading_history": "Historique des trades",
+    "performance_stats": "Statistiques de performance"
+  },
+  "Portfolio": {
+    "meta_title": "Portfolio de Trading",
+    "meta_description": "Consultez vos trades actifs et la performance de votre portefeuille",
+    "presentation": "Votre portfolio de trading personnalisé présente vos positions actives, votre performance historique et les analyses générées par l'IA. Suivez vos investissements et surveillez les stratégies de trading de votre bot en temps réel.",
+    "portfolio_name": "Portfolio {name}",
+    "error_reporting_powered_by": "Rapport d'erreur propulsé par",
+    "coverage_powered_by": "Analytique propulsée par"
+  },
+  "About": {
+    "meta_title": "À propos de Smartvest Bot",
+    "meta_description": "Découvrez notre technologie de trading propulsée par l'IA",
+    "about_paragraph": "Bienvenue sur Smartvest Bot ! Nous sommes pionniers dans le futur du trading automatisé avec des algorithmes d'IA avancés conçus pour optimiser votre stratégie d'investissement sur les marchés des actions et des crypto-monnaies.",
+    "technology_powered_by": "Technologie IA propulsée par"
+  },
+  "SignIn": {
+    "meta_title": "Connexion à Smartvest Bot",
+    "meta_description": "Accédez à votre tableau de bord de trading en toute sécurité"
+  },
+  "SignUp": {
+    "meta_title": "Rejoindre Smartvest Bot",
+    "meta_description": "Commencez votre parcours de trading automatisé aujourd'hui"
+  },
+  "UserProfile": {
+    "meta_title": "Préférences de Trading",
+    "risk_level": "Niveau de risque",
+    "trading_pairs": "Paires de trading",
+    "api_settings": "Paramètres API"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Tableau de bord de trading",
+    "user_profile_link": "Paramètres de trading",
+    "sign_out": "Se déconnecter"
+  }
+}

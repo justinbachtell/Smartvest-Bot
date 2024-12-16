@@ -1,0 +1,61 @@
+{
+  "RootLayout": {
+    "home_link": "Home",
+    "about_link": "About",
+    "dashboard_link": "Dashboard",
+    "portfolio_link": "Trading Portfolio",
+    "sign_in_link": "Sign in",
+    "sign_up_link": "Sign up"
+  },
+  "BaseTemplate": {
+    "description": "An automated AI trading bot for stocks and crypto",
+    "made_with": "Made with <author></author>."
+  },
+  "Index": {
+    "meta_title": "Smartvest Bot - AI-Powered Trading",
+    "meta_description": "Smartvest Bot is your intelligent trading companion, leveraging AI to optimize your stock and crypto investments.",
+    "sponsors_title": "Trusted By"
+  },
+  "Dashboard": {
+    "meta_title": "Trading Dashboard",
+    "meta_description": "Monitor your automated trading performance",
+    "hello_message": "Welcome back, {email}!",
+    "total_portfolio": "Total Portfolio Value",
+    "active_trades": "Active Trades",
+    "trading_history": "Trading History",
+    "performance_stats": "Performance Statistics"
+  },
+  "Portfolio": {
+    "meta_title": "Trading Portfolio",
+    "meta_description": "View your active trades and portfolio performance",
+    "presentation": "Your personalized trading portfolio showcases your active positions, historical performance, and AI-generated insights. Track your investments and monitor your bot's trading strategies in real-time.",
+    "portfolio_name": "Portfolio {name}",
+    "error_reporting_powered_by": "Error reporting powered by",
+    "coverage_powered_by": "Analytics powered by"
+  },
+  "About": {
+    "meta_title": "About Smartvest Bot",
+    "meta_description": "Learn about our AI-powered trading technology",
+    "about_paragraph": "Welcome to Smartvest Bot! We're pioneering the future of automated trading with advanced AI algorithms designed to optimize your investment strategy across both stock and crypto markets.",
+    "technology_powered_by": "AI technology powered by"
+  },
+  "SignIn": {
+    "meta_title": "Sign in to Smartvest Bot",
+    "meta_description": "Access your AI trading dashboard securely"
+  },
+  "SignUp": {
+    "meta_title": "Join Smartvest Bot",
+    "meta_description": "Start your automated trading journey today"
+  },
+  "UserProfile": {
+    "meta_title": "Trading Preferences",
+    "risk_level": "Risk Level",
+    "trading_pairs": "Trading Pairs",
+    "api_settings": "API Settings"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Trading Dashboard",
+    "user_profile_link": "Trading Settings",
+    "sign_out": "Sign out"
+  }
+}
