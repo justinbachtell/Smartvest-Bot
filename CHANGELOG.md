@@ -1,3 +1,15 @@
+# 1.0.0 (2024-12-16)
+
+
+### Code Refactoring
+
+* **initial:** initial commit and configuration ([ac6e46b](https://github.com/justinbachtell/Smartvest-Bot/commit/ac6e46b1aef1ea5993bb048645b7471ee4dddb7a))
+
+
+### BREAKING CHANGES
+
+* **initial:** configuration and dependencies
+
 ## [3.60.4](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.60.3...v3.60.4) (2024-12-16)
 
 
